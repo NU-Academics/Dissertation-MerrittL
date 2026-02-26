@@ -1,2 +1,2 @@
 # Dissertation-MerrittL
-Efficient Deepfake Detection in Low-Resolution Images Using Tabular Feature Engineering and Ensemble Learning
+Low-Resolution Deepfake Detection with Tabular Features and Ensembles
