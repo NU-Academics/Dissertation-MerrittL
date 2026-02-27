@@ -12,7 +12,7 @@ Large image datasets are distributed via **GitHub Releases** as zipped archives 
 
 ### Notebooks (Run in This Order)
 
-1. **`1_Source AFHQ Images and StarGAN Deepfakes.ipynb`**  
+1. **`1_Source AFHQ Images and StarGAN Deepfakes_clean.ipynb`**  
    Sources/organizes AFHQ real images and StarGAN-generated deepfake images into the project’s dataset structure.  
    **Output:** standardized folders and/or metadata used downstream.
 
